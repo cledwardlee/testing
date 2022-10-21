@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  ca:
+  - apiVersion: v1
+    appVersion: "2.0"
+    created: "2022-10-21T15:36:36.076184011+08:00"
+    description: A Helm chart for CA server
+    digest: b3027fa283e06c7a865740c13fbeff464c350f0f196ca6918cfd39613243a8e4
+    name: ca
+    urls:
+    - ca-0.0.2.tgz
+    version: 0.0.2
+generated: "2022-10-21T15:36:36.075773616+08:00"
