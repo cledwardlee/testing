@@ -3,11 +3,11 @@ entries:
   ca:
   - apiVersion: v1
     appVersion: "2.0"
-    created: "2022-10-21T15:52:33.053321908+08:00"
+    created: "2022-10-21T18:00:37.26445762+08:00"
     description: A Helm chart for CA server
     digest: b3027fa283e06c7a865740c13fbeff464c350f0f196ca6918cfd39613243a8e4
     name: ca
     urls:
-    - ca-0.0.2.tgz
+    - https://git-app-internal.acn-hk-cargo-data-platform.cn/blockchain-automation-framework-dg-helm-chart-DEV.git/ca-0.0.2.tgz
     version: 0.0.2
-generated: "2022-10-21T15:52:33.052905354+08:00"
+generated: "2022-10-21T18:00:37.263823422+08:00"
